@@ -1,0 +1,2398 @@
+<?xml version="1.0"?>
+<Schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PubDate>2017-11-22T00:00:00+00:00</PubDate>
+  <Shows>
+    <Show>
+      <ID>178720</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T11:00:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T09:00:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T12:42:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T10:42:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T11:10:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T09:10:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3143</EventID>
+      <Title>Lumeinimese poeg</Title>
+      <OriginalTitle>The Son of Bigfoot</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-10-20T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Animatsioon</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1215</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D, Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178720/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3143/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_micro/The-Son-Of-Bigfoot_B1_EE.JPG</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_small/The-Son-Of-Bigfoot_B1_EE.JPG</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_medium/The-Son-Of-Bigfoot_B1_EE.JPG</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_large/The-Son-Of-Bigfoot_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6374/landscape_small/Son-of-BIgfoot-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6374/landscape_large/Son-of-BIgfoot-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178721</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T11:15:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T09:15:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T12:57:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T10:57:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T11:25:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T09:25:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1214</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>1. Saku saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 1. Saku saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178721/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178722</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T11:20:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T09:20:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T13:06:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T11:06:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T11:30:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T09:30:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3295</EventID>
+      <Title>Peletiste perekond</Title>
+      <OriginalTitle>Happy family</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>96</LengthInMinutes>
+      <dtLocalRelease>2017-11-03T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Animatsioon</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1212</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>4. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 4. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D, Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178722/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3295/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_micro/Happy_Family_707x1000-EE_preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_small/Happy_Family_707x1000-EE_preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_medium/Happy_Family_707x1000-EE_preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_large/Happy_Family_707x1000-EE_preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6537/landscape_small/HF_apollo_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6537/landscape_large/HF_apollo_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178733</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T11:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T09:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T13:51:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T11:51:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T11:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T09:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3178</EventID>
+      <Title>Thor: Ragnarok</Title>
+      <OriginalTitle>Thor: Ragnarok</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>131</LengthInMinutes>
+      <dtLocalRelease>2017-10-27T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1213</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>3. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 3. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178733/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3178/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_micro/ThorRagnarok_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_small/ThorRagnarok_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_medium/ThorRagnarok_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_large/ThorRagnarok_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6410/landscape_small/ThorRagnarok_Apollo_Banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6410/landscape_large/ThorRagnarok_Apollo_Banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178723</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T11:40:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T09:40:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T13:34:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T11:34:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T11:50:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T09:50:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3246</EventID>
+      <Title>Pahad emmed 2</Title>
+      <OriginalTitle>Bad Moms Christmas</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>104</LengthInMinutes>
+      <dtLocalRelease>2017-11-03T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1211</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178723/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3246/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_micro/BadMomsChristmas_B1_EE_Preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_small/BadMomsChristmas_B1_EE_Preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_medium/BadMomsChristmas_B1_EE_Preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_large/BadMomsChristmas_B1_EE_Preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6484/landscape_small/BadMomsChristmas_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6484/landscape_large/BadMomsChristmas_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178724</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T11:50:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T09:50:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T14:00:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T12:00:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T12:00:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T10:00:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3007</EventID>
+      <Title>Õigluse liiga</Title>
+      <OriginalTitle>Justice League</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>120</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1210</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178724/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3007/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_micro/JusticeLeague_Fight_B1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_small/JusticeLeague_Fight_B1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_medium/JusticeLeague_Fight_B1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_large/JusticeLeague_Fight_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_small/JL-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_large/JL-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178843</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T12:00:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T10:00:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T13:42:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T11:42:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T12:10:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T10:10:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3143</EventID>
+      <Title>Lumeinimese poeg</Title>
+      <OriginalTitle>The Son of Bigfoot</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-10-20T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Animatsioon</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1203</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>4. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 4. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178843/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3143/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_micro/The-Son-Of-Bigfoot_B1_EE.JPG</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_small/The-Son-Of-Bigfoot_B1_EE.JPG</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_medium/The-Son-Of-Bigfoot_B1_EE.JPG</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_large/The-Son-Of-Bigfoot_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6374/landscape_small/Son-of-BIgfoot-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6374/landscape_large/Son-of-BIgfoot-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178842</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T12:15:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T10:15:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T13:57:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T11:57:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T12:25:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T10:25:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1207</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>3. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 3. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178842/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178726</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T13:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T11:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T14:40:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T12:40:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T13:20:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T11:20:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3282</EventID>
+      <Title>Pettson ja Findus: Maailma parimad jõulud</Title>
+      <OriginalTitle>Pettersson und Findus 2 - Das schönste Weihnachten überhaupt</OriginalTitle>
+      <ProductionYear>2016</ProductionYear>
+      <LengthInMinutes>80</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Kogupere</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1215</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178726/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3282/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_micro/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_small/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_medium/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_large/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6523/landscape_small/Estinfilm_Pettson-&amp;-Findus-Christmas_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6523/landscape_large/Estinfilm_Pettson-&amp;-Findus-Christmas_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178727</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T13:20:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T11:20:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T15:02:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T13:02:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T13:30:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T11:30:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1214</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>1. Saku saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 1. Saku saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178727/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178728</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T13:50:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T11:50:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T15:32:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T13:32:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T14:00:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T12:00:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3143</EventID>
+      <Title>Lumeinimese poeg</Title>
+      <OriginalTitle>The Son of Bigfoot</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-10-20T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Animatsioon</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1212</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>4. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 4. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178728/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3143/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_micro/The-Son-Of-Bigfoot_B1_EE.JPG</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_small/The-Son-Of-Bigfoot_B1_EE.JPG</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_medium/The-Son-Of-Bigfoot_B1_EE.JPG</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6374/portrait_large/The-Son-Of-Bigfoot_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6374/landscape_small/Son-of-BIgfoot-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6374/landscape_large/Son-of-BIgfoot-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178729</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T14:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T12:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T16:15:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T14:15:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T14:20:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T12:20:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3241</EventID>
+      <Title>Matilda</Title>
+      <OriginalTitle>Matilda</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>115</LengthInMinutes>
+      <dtLocalRelease>2017-10-27T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. keelatud</Rating>
+      <RatingLabel>K-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Biograafia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1211</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Vene keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178729/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3241/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6478/portrait_micro/Mathilde_B1_V1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6478/portrait_small/Mathilde_B1_V1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6478/portrait_medium/Mathilde_B1_V1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6478/portrait_large/Mathilde_B1_V1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6478/landscape_small/Mathilde_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6478/landscape_large/Mathilde_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178848</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T14:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T12:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T15:52:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T13:52:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T14:20:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T12:20:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1203</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>4. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 4. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178848/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178730</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T14:20:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T12:20:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T16:06:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T14:06:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T14:30:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T12:30:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3295</EventID>
+      <Title>Peletiste perekond</Title>
+      <OriginalTitle>Happy family</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>96</LengthInMinutes>
+      <dtLocalRelease>2017-11-03T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Animatsioon</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1213</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>3. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 3. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Vene keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178730/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3295/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_micro/Happy_Family_707x1000-EE_preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_small/Happy_Family_707x1000-EE_preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_medium/Happy_Family_707x1000-EE_preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_large/Happy_Family_707x1000-EE_preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6537/landscape_small/HF_apollo_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6537/landscape_large/HF_apollo_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178869</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T14:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T12:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T16:00:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T14:00:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T14:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T12:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3282</EventID>
+      <Title>Pettson ja Findus: Maailma parimad jõulud</Title>
+      <OriginalTitle>Pettersson und Findus 2 - Das schönste Weihnachten überhaupt</OriginalTitle>
+      <ProductionYear>2016</ProductionYear>
+      <LengthInMinutes>80</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Kogupere</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1208</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178869/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3282/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_micro/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_small/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_medium/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_large/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6523/landscape_small/Estinfilm_Pettson-&amp;-Findus-Christmas_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6523/landscape_large/Estinfilm_Pettson-&amp;-Findus-Christmas_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>179188</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T14:40:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T12:40:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T16:50:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T14:50:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T14:50:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T12:50:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3007</EventID>
+      <Title>Õigluse liiga</Title>
+      <OriginalTitle>Justice League</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>120</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1210</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/179188/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3007/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_micro/JusticeLeague_Fight_B1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_small/JusticeLeague_Fight_B1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_medium/JusticeLeague_Fight_B1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_large/JusticeLeague_Fight_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_small/JL-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_large/JL-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178850</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T14:45:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T12:45:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T16:39:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T14:39:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T14:55:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T12:55:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3246</EventID>
+      <Title>Pahad emmed 2</Title>
+      <OriginalTitle>Bad Moms Christmas</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>104</LengthInMinutes>
+      <dtLocalRelease>2017-11-03T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1204</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178850/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3246/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_micro/BadMomsChristmas_B1_EE_Preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_small/BadMomsChristmas_B1_EE_Preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_medium/BadMomsChristmas_B1_EE_Preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_large/BadMomsChristmas_B1_EE_Preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6484/landscape_small/BadMomsChristmas_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6484/landscape_large/BadMomsChristmas_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178851</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T15:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T13:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T17:12:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T15:12:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T15:20:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T13:20:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3232</EventID>
+      <Title>Mägi meie vahel</Title>
+      <OriginalTitle>The Mountain Between Us</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>112</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Action, Seiklus</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1209</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>7. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 7. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178851/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3232/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6466/portrait_micro/Mountain_Between_Us_MArkus_1350x2000px.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6466/portrait_small/Mountain_Between_Us_MArkus_1350x2000px.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6466/portrait_medium/Mountain_Between_Us_MArkus_1350x2000px.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6466/portrait_large/Mountain_Between_Us_MArkus_1350x2000px.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6466/landscape_small/Mountain_Between_Us_Apollo_sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6466/landscape_large/Mountain_Between_Us_Apollo_sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178734</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T15:20:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T13:20:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T17:06:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T15:06:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T15:30:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T13:30:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3295</EventID>
+      <Title>Peletiste perekond</Title>
+      <OriginalTitle>Happy family</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>96</LengthInMinutes>
+      <dtLocalRelease>2017-11-03T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Animatsioon</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1215</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178734/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3295/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_micro/Happy_Family_707x1000-EE_preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_small/Happy_Family_707x1000-EE_preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_medium/Happy_Family_707x1000-EE_preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6537/portrait_large/Happy_Family_707x1000-EE_preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6537/landscape_small/HF_apollo_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6537/landscape_large/HF_apollo_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178735</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T15:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T13:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T17:12:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T15:12:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T15:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T13:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1214</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>1. Saku saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 1. Saku saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178735/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178738</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T16:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T14:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T18:09:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T16:09:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T16:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T14:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3315</EventID>
+      <Title>Purunevad müüdid</Title>
+      <OriginalTitle>Мифы</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>89</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. keelatud</Rating>
+      <RatingLabel>K-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1213</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>3. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 3. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Vene keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178738/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3315/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_micro/MIFY_EE_768x1097.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_small/MIFY_EE_768x1097.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_medium/MIFY_EE_768x1097.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_large/MIFY_EE_768x1097.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6558/landscape_small/MIFY_apollo_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6558/landscape_large/MIFY_apollo_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178852</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T16:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T14:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T18:40:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T16:40:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T16:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T14:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3007</EventID>
+      <Title>Õigluse liiga</Title>
+      <OriginalTitle>Justice League</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>120</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1208</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178852/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3007/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_micro/JusticeLeague_Fight_B1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_small/JusticeLeague_Fight_B1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_medium/JusticeLeague_Fight_B1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_large/JusticeLeague_Fight_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_small/JL-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_large/JL-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178931</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T16:40:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T14:40:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T18:12:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T16:12:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T16:50:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T14:50:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3311</EventID>
+      <Title>Väike vampiir</Title>
+      <OriginalTitle>The Little Vampire</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>82</LengthInMinutes>
+      <dtLocalRelease>2017-11-24T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Seiklus, Animatsioon</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1212</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>4. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 4. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D, Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries>Eellinastus</EventSeries>
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178931/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3311/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6554/portrait_micro/LittleVampire_707x1000_EE_preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6554/portrait_small/LittleVampire_707x1000_EE_preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6554/portrait_medium/LittleVampire_707x1000_EE_preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6554/portrait_large/LittleVampire_707x1000_EE_preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6554/landscape_small/littlevamp_apollo_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6554/landscape_large/littlevamp_apollo_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178739</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T17:00:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T15:00:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T19:02:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T17:02:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T17:10:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T15:10:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3232</EventID>
+      <Title>Mägi meie vahel</Title>
+      <OriginalTitle>The Mountain Between Us</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>112</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Action, Seiklus</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1211</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178739/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3232/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6466/portrait_micro/Mountain_Between_Us_MArkus_1350x2000px.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6466/portrait_small/Mountain_Between_Us_MArkus_1350x2000px.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6466/portrait_medium/Mountain_Between_Us_MArkus_1350x2000px.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6466/portrait_large/Mountain_Between_Us_MArkus_1350x2000px.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6466/landscape_small/Mountain_Between_Us_Apollo_sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6466/landscape_large/Mountain_Between_Us_Apollo_sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178853</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T17:00:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T15:00:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T19:05:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T17:05:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T17:10:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T15:10:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3307</EventID>
+      <Title>Džungel</Title>
+      <OriginalTitle>Jungle</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>115</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Action, Seiklus</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1204</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178853/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3307/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_micro/Jungle_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_small/Jungle_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_medium/Jungle_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_large/Jungle_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6550/landscape_small/Jungle_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6550/landscape_large/Jungle_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178854</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T17:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T15:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T18:52:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T16:52:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T17:20:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T15:20:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1206</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178854/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178740</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T17:15:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T15:15:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T19:25:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T17:25:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T17:25:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T15:25:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3007</EventID>
+      <Title>Õigluse liiga</Title>
+      <OriginalTitle>Justice League</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>120</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1210</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178740/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3007/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_micro/JusticeLeague_Fight_B1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_small/JusticeLeague_Fight_B1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_medium/JusticeLeague_Fight_B1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_large/JusticeLeague_Fight_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_small/JL-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_large/JL-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178741</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T17:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T15:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T19:00:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T17:00:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T17:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T15:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3282</EventID>
+      <Title>Pettson ja Findus: Maailma parimad jõulud</Title>
+      <OriginalTitle>Pettersson und Findus 2 - Das schönste Weihnachten überhaupt</OriginalTitle>
+      <ProductionYear>2016</ProductionYear>
+      <LengthInMinutes>80</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Kogupere</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1215</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178741/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3282/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_micro/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_small/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_medium/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6523/portrait_large/Estinfilm_Pettson-&amp;-Findus-Christmas_1080x1920.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6523/landscape_small/Estinfilm_Pettson-&amp;-Findus-Christmas_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6523/landscape_large/Estinfilm_Pettson-&amp;-Findus-Christmas_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178932</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T17:40:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T15:40:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T19:12:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T17:12:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T17:50:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T15:50:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3311</EventID>
+      <Title>Väike vampiir</Title>
+      <OriginalTitle>The Little Vampire</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>82</LengthInMinutes>
+      <dtLocalRelease>2017-11-24T00:00:00</dtLocalRelease>
+      <Rating>Perefilm</Rating>
+      <RatingLabel>PERE</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_PERE.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Seiklus, Animatsioon</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1209</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>7. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 7. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D, Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries>Eellinastus</EventSeries>
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178932/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3311/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6554/portrait_micro/LittleVampire_707x1000_EE_preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6554/portrait_small/LittleVampire_707x1000_EE_preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6554/portrait_medium/LittleVampire_707x1000_EE_preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6554/portrait_large/LittleVampire_707x1000_EE_preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6554/landscape_small/littlevamp_apollo_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6554/landscape_large/littlevamp_apollo_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178742</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T17:40:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T15:40:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T19:22:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T17:22:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T17:50:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T15:50:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1214</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>1. Saku saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 1. Saku saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178742/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178743</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T18:50:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T16:50:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T21:11:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T19:11:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:00:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:00:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3178</EventID>
+      <Title>Thor: Ragnarok</Title>
+      <OriginalTitle>Thor: Ragnarok</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>131</LengthInMinutes>
+      <dtLocalRelease>2017-10-27T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1212</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>4. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 4. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178743/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3178/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_micro/ThorRagnarok_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_small/ThorRagnarok_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_medium/ThorRagnarok_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_large/ThorRagnarok_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6410/landscape_small/ThorRagnarok_Apollo_Banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6410/landscape_large/ThorRagnarok_Apollo_Banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178745</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:00:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:00:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T20:39:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T18:39:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:10:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:10:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3315</EventID>
+      <Title>Purunevad müüdid</Title>
+      <OriginalTitle>Мифы</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>89</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. keelatud</Rating>
+      <RatingLabel>K-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1213</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>3. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 3. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Vene keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178745/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3315/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_micro/MIFY_EE_768x1097.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_small/MIFY_EE_768x1097.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_medium/MIFY_EE_768x1097.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_large/MIFY_EE_768x1097.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6558/landscape_small/MIFY_apollo_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6558/landscape_large/MIFY_apollo_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178868</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T21:13:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T19:13:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:20:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:20:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3231</EventID>
+      <Title>Mõrv Idaekspressis</Title>
+      <OriginalTitle>Murder on the Orient Express</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>113</LengthInMinutes>
+      <dtLocalRelease>2017-11-24T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Krimi, Müsteerium</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1208</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries>Eellinastus</EventSeries>
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178868/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3231/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_micro/MotOE_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_small/MotOE_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_medium/MotOE_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_large/MotOE_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6465/landscape_small/MotOE_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6465/landscape_large/MotOE_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178856</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:15:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:15:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T20:57:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T18:57:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:25:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:25:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1206</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178856/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178892</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T21:16:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T19:16:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3239</EventID>
+      <Title>Papside lahing 2</Title>
+      <OriginalTitle>Daddy's Home 2</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>96</LengthInMinutes>
+      <dtLocalRelease>2017-11-24T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1211</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries>Eellinastus</EventSeries>
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178892/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3239/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_micro/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_small/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_medium/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_large/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6476/landscape_small/Daddys_Home_2_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6476/landscape_large/Daddys_Home_2_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178857</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T21:40:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T19:40:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3007</EventID>
+      <Title>Õigluse liiga</Title>
+      <OriginalTitle>Justice League</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>120</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1204</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178857/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3007/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_micro/JusticeLeague_Fight_B1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_small/JusticeLeague_Fight_B1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_medium/JusticeLeague_Fight_B1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_large/JusticeLeague_Fight_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_small/JL-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_large/JL-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178746</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T21:40:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T19:40:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3007</EventID>
+      <Title>Õigluse liiga</Title>
+      <OriginalTitle>Justice League</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>120</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1215</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178746/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3007/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_micro/JusticeLeague_Fight_B1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_small/JusticeLeague_Fight_B1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_medium/JusticeLeague_Fight_B1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_large/JusticeLeague_Fight_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_small/JL-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_large/JL-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178864</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:40:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:40:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T21:26:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T19:26:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:50:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:50:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3239</EventID>
+      <Title>Papside lahing 2</Title>
+      <OriginalTitle>Daddy's Home 2</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>96</LengthInMinutes>
+      <dtLocalRelease>2017-11-24T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1209</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>7. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 7. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries>Eellinastus</EventSeries>
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178864/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3239/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_micro/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_small/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_medium/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_large/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6476/landscape_small/Daddys_Home_2_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6476/landscape_large/Daddys_Home_2_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178748</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:45:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:45:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T21:27:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T19:27:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T19:55:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T17:55:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1214</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>1. Saku saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 1. Saku saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178748/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178891</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T19:50:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T17:50:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T21:53:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T19:53:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T20:00:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T18:00:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3231</EventID>
+      <Title>Mõrv Idaekspressis</Title>
+      <OriginalTitle>Murder on the Orient Express</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>113</LengthInMinutes>
+      <dtLocalRelease>2017-11-24T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Krimi, Müsteerium</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1210</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries>Eellinastus</EventSeries>
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178891/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3231/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_micro/MotOE_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_small/MotOE_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_medium/MotOE_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_large/MotOE_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6465/landscape_small/MotOE_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6465/landscape_large/MotOE_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178859</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T20:45:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T18:45:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T22:27:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T20:27:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T20:55:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T18:55:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1205</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>1. Saku saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 1. Saku saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178859/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178860</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T21:20:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T19:20:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T23:30:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T21:30:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T21:30:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T19:30:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3007</EventID>
+      <Title>Õigluse liiga</Title>
+      <OriginalTitle>Justice League</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>120</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1206</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178860/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3007/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_micro/JusticeLeague_Fight_B1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_small/JusticeLeague_Fight_B1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_medium/JusticeLeague_Fight_B1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_large/JusticeLeague_Fight_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_small/JL-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_large/JL-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178893</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T21:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T19:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T23:16:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T21:16:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T21:40:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T19:40:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3239</EventID>
+      <Title>Papside lahing 2</Title>
+      <OriginalTitle>Daddy's Home 2</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>96</LengthInMinutes>
+      <dtLocalRelease>2017-11-24T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1213</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>3. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 3. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries>Eellinastus</EventSeries>
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178893/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3239/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_micro/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_small/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_medium/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6476/portrait_large/Daddys_Home_2_Markus_1350x2000px_uus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6476/landscape_small/Daddys_Home_2_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6476/landscape_large/Daddys_Home_2_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178847</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T21:40:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T19:40:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-23T00:01:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T22:01:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T21:50:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T19:50:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3178</EventID>
+      <Title>Thor: Ragnarok</Title>
+      <OriginalTitle>Thor: Ragnarok</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>131</LengthInMinutes>
+      <dtLocalRelease>2017-10-27T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1208</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>3D</PresentationMethodAndLanguage>
+      <PresentationMethod>3D</PresentationMethod>
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178847/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3178/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_micro/ThorRagnarok_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_small/ThorRagnarok_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_medium/ThorRagnarok_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6410/portrait_large/ThorRagnarok_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6410/landscape_small/ThorRagnarok_Apollo_Banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6410/landscape_large/ThorRagnarok_Apollo_Banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178894</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T21:40:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T19:40:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T23:43:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T21:43:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T21:50:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T19:50:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3231</EventID>
+      <Title>Mõrv Idaekspressis</Title>
+      <OriginalTitle>Murder on the Orient Express</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>113</LengthInMinutes>
+      <dtLocalRelease>2017-11-24T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Krimi, Müsteerium</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1212</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>4. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 4. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries>Eellinastus</EventSeries>
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178894/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3231/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_micro/MotOE_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_small/MotOE_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_medium/MotOE_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6465/portrait_large/MotOE_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6465/landscape_small/MotOE_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6465/landscape_large/MotOE_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178752</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T21:50:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T19:50:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T23:32:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T21:32:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T22:00:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T20:00:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3283</EventID>
+      <Title>Svingerid</Title>
+      <OriginalTitle>Svingerid</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>92</LengthInMinutes>
+      <dtLocalRelease>2017-11-10T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1214</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>1. Saku saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 1. Saku saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Eesti keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178752/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3283/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_micro/Svingerid_Markus_14_Hea_Apollo.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_small/Svingerid_Markus_14_Hea_Apollo.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_medium/Svingerid_Markus_14_Hea_Apollo.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6524/portrait_large/Svingerid_Markus_14_Hea_Apollo.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_small/Svingerid_Apollo_banner.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6524/landscape_large/Svingerid_Apollo_banner.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178861</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T21:50:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T19:50:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-22T23:29:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T21:29:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T22:00:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T20:00:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3315</EventID>
+      <Title>Purunevad müüdid</Title>
+      <OriginalTitle>Мифы</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>89</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. keelatud</Rating>
+      <RatingLabel>K-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1209</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>7. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 7. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>Vene keeles</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178861/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3315/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_micro/MIFY_EE_768x1097.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_small/MIFY_EE_768x1097.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_medium/MIFY_EE_768x1097.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6558/portrait_large/MIFY_EE_768x1097.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6558/landscape_small/MIFY_apollo_1280x720.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6558/landscape_large/MIFY_apollo_1280x720.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178753</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T22:00:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T20:00:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-23T00:05:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T22:05:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T22:10:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T20:10:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3307</EventID>
+      <Title>Džungel</Title>
+      <OriginalTitle>Jungle</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>115</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Action, Seiklus</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1211</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178753/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3307/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_micro/Jungle_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_small/Jungle_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_medium/Jungle_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_large/Jungle_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6550/landscape_small/Jungle_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6550/landscape_large/Jungle_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178755</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T22:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T20:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-23T00:20:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T22:20:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T22:20:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T20:20:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3007</EventID>
+      <Title>Õigluse liiga</Title>
+      <OriginalTitle>Justice League</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>120</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 12 a. mittesoovitatav</Rating>
+      <RatingLabel>MS-12</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_MS-12.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Action, Seiklus, Fantaasia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1215</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>2. Telia saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 2. Telia saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178755/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3007/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_micro/JusticeLeague_Fight_B1_EE.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_small/JusticeLeague_Fight_B1_EE.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_medium/JusticeLeague_Fight_B1_EE.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6226/portrait_large/JusticeLeague_Fight_B1_EE.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_small/JL-EE_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6226/landscape_large/JL-EE_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178863</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T22:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T20:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-23T00:15:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T22:15:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T22:20:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T20:20:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3307</EventID>
+      <Title>Džungel</Title>
+      <OriginalTitle>Jungle</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>115</LengthInMinutes>
+      <dtLocalRelease>2017-11-17T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Draama, Action, Seiklus</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1204</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>5. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 5. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178863/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3307/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_micro/Jungle_Markus.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_small/Jungle_Markus.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_medium/Jungle_Markus.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6550/portrait_large/Jungle_Markus.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6550/landscape_small/Jungle_ApolloKino_Sisupilt.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6550/landscape_large/Jungle_ApolloKino_Sisupilt.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178858</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T22:20:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T20:20:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-23T00:14:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T22:14:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T22:30:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T20:30:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3246</EventID>
+      <Title>Pahad emmed 2</Title>
+      <OriginalTitle>Bad Moms Christmas</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>104</LengthInMinutes>
+      <dtLocalRelease>2017-11-03T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1203</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>4. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, 4. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178858/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3246/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_micro/BadMomsChristmas_B1_EE_Preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_small/BadMomsChristmas_B1_EE_Preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_medium/BadMomsChristmas_B1_EE_Preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_large/BadMomsChristmas_B1_EE_Preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6484/landscape_small/BadMomsChristmas_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6484/landscape_large/BadMomsChristmas_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>178751</ID>
+      <dtAccounting>2017-11-22T00:00:00</dtAccounting>
+      <dttmShowStart>2017-11-22T22:20:00</dttmShowStart>
+      <dttmShowStartUTC>2017-11-22T20:20:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-11-23T00:14:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-11-22T22:14:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-11-22T22:30:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-11-22T20:30:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00Z</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00Z</ShowReservationEndTimeUTC>
+      <EventID>3246</EventID>
+      <Title>Pahad emmed 2</Title>
+      <OriginalTitle>Bad Moms Christmas</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>104</LengthInMinutes>
+      <dtLocalRelease>2017-11-03T00:00:00</dtLocalRelease>
+      <Rating>Alla 14 a. keelatud</Rating>
+      <RatingLabel>K-14</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_K-14.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Komöödia</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1210</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>6. saal</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, 6. saal</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage />
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://www.apollokino.ee/Websales/Show/178751/</ShowURL>
+      <EventURL>http://www.apollokino.ee/Event/3246/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_micro/BadMomsChristmas_B1_EE_Preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_small/BadMomsChristmas_B1_EE_Preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_medium/BadMomsChristmas_B1_EE_Preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6484/portrait_large/BadMomsChristmas_B1_EE_Preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6484/landscape_small/BadMomsChristmas_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6484/landscape_large/BadMomsChristmas_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+  </Shows>
+</Schedule>
